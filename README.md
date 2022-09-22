@@ -1,6 +1,6 @@
 ### Hi there👋
 I'm Roghayeh 
-I am a lover of programming, I have a bachelor's degree, first of all, fate put me on this path and I had to deal with tools that I didn't like every day because of my studies. But slowly I was fascinated by all this power . I started learning web development with PHP and now I'm thirsty learning. 😄🌱.
+
 
 <!--
 **roghayefallahi/roghayefallahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
