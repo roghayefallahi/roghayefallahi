@@ -21,8 +21,8 @@
 <p>
   <img alt="php" src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=000000&logo=PHP&logoColor=blue&label=" />
   <img alt="Laravel" src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=33333D&logo=laravel&logoColor=red&label=" />
-  <img alt="RestApi" src="https://img.shields.io/badge/gRPC%20-%236DB33F.svg?&style=flat-square&logo=RestApi&logoColor=orange&color=orange" />
-  <img alt="TDD-Test" src="https://img.shields.io/badge/gRPC%20-%236DB33F.svg?&style=flat-square&logo=TDD-Test&logoColor=yellow&color=orange" />
+  <img alt="RestApi" src="https://img.shields.io/badge/RestApi%20-%236DB33F.svg?&style=flat-square&logo=RestApi&logoColor=orange&color=orange" />
+  <img alt="TDD-Test" src="https://img.shields.io/badge/TDD-Test%30-%236DB33F.svg?&style=flat-square&logo=TDD-Test&logoColor=yellow&color=yellow" />
   <img alt="Bootstrap" src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=33333D&logo=Bootstrap&logoColor=blueviolet&label=" />
   <img alt="Swagger" src="https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
