@@ -8,9 +8,9 @@
 ### A few things about me
 
 - 🎓 I have a bachelor's degree in IT engineering
-- 💻 I'm PHP Developer
+- 💻 I'm a Front-end Developer
 - 📍 I'm from Iran
-- 🤓 I'm thirsty to learn.
+- 🤓 I’m thirsty for learning.
 
 
 
