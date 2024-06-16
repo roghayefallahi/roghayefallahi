@@ -18,13 +18,13 @@
 
 ## Expertise
 <p>
-  <img alt="html" src="https://img.shields.io/static/v1?style=for-the-badge&message=html&color=000000&logo=html&logoColor=blue&label=" />
-  <img alt="css" src="https://img.shields.io/static/v1?style=for-the-badge&message=css&color=33333D&logo=css&logoColor=red&label=" />
-  <img alt="js" src="https://img.shields.io/static/v1?style=for-the-badge&message=js&color=33333D&logo=js&logoColor=red&label=" />
+  <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img alt="Bootstrap" src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=33333D&logo=Bootstrap&logoColor=blueviolet&label=" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F87822?style=flat-square&logo=mysql&logoColor=336791" />
+  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     
 </p>
 
