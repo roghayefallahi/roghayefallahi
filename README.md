@@ -10,7 +10,7 @@
 - 🎓 I have a bachelor's degree in IT engineering
 - 💻 I'm a Front-end Developer
 - 📍 I'm from Iran
-- 🤓 I’m thirsty for learning.
+
 
 
 
