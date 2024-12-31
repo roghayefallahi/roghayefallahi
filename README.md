@@ -36,7 +36,7 @@
 
 ## Connect with me
 
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />](https://www.linkedin.com/in/roghayefallhi)
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roghayefallhi)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:roghayefallhi@gmail.com)
 
 
