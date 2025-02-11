@@ -7,7 +7,7 @@
 
 ### A few things about me
 
-- 🎓 I have a bachelor's degree in IT engineering
+- 🎓 I hold a Bachelor's degree in Information Technology Engineering.
 - 💻 I'm a Front-end Developer
 - 📍 I'm from Iran
 
